@@ -14,9 +14,6 @@
 - *AI Powered Game Bot Using Deep Reinforcement Learning* — training intelligent agents (Unity + ML-Agents) for game scenarios.
 - *Kawasaki Bikes Showcase* — multi-page site with image carousels, pricing, and EMI calculations; separate HTML/CSS/JS files.
 - *Online Quiz Platform* — instructors create quizzes; students get instant feedback.
-
-(Replace these with links to the repos by editing the markdown below when you create each repo.)
-
 ---
 
 ## 🛠 Tech & tools
