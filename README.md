@@ -52,16 +52,10 @@
 ---
 
 ## 📫 Get in touch
-- Email: your-email@example.com  
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/your-linkedin)  
-- Portfolio / Resume: link-to-resume-or-portfolio
+- Email: saranyasaranya61279@gmail.com
+- LinkedIn: https://www.linkedin.com/in/saranya-m-b412012a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app  
 
----
 
-## 📝 Notes
-- This README is a template — update the project names, links, and contact info with your actual repo URLs and details.
-- To make this your GitHub profile README: create a *new repository* named exactly Saranya-M46 (same as your username) and add this README.md to the repo root.
 
----
 
 Thanks for stopping by — let’s build something awesome! ✨
